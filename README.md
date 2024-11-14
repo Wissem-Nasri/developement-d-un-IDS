@@ -13,3 +13,5 @@ Il surveille les paquets ICMP, TCP, et UDP qui circulent sur le réseau et filtr
 Chaque paquet capturé est transformé en un objet contenant des informations sur le paquet, comme l'adresse IP source et destination, le port source et destination, et l'heure de capture.
 Ces informations sont ensuite envoyées à l'API Flask sous forme de message encodé en base64 pour être traitées.
 Si le paquet est un ICMP, TCP ou UDP et qu'il n'est pas destiné au serveur API, il est envoyé à l'API pour traitement.
+# Fonctionnement détaillé :
+
