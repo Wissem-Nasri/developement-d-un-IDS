@@ -19,13 +19,11 @@ Si le paquet est un ICMP, TCP ou UDP et qu'il n'est pas destiné au serveur API,
 ![Capture d'écran 2024-11-14 171551](https://github.com/user-attachments/assets/945da31d-2e26-4724-9d8e-5176c3f3622a)
 ![Capture d'écran 2024-11-14 171615](https://github.com/user-attachments/assets/f8bb6ed9-db13-4e42-ae08-3cecf70a5d39)
 ## Test avec un paquet TCP
-![Uploading Capture d'écran 2024-11-14 172149.png…]()
-![Uploading Capture d'écran 2024-11-14 172149.png…]()
-![Uploading Capture d'écran 2024-11-14 172245.png…]()
+![Capture d'écran 2024-11-14 172149](https://github.com/user-attachments/assets/26373d3e-22c2-4195-971e-e0e9911bc0fe)
+![Uploading Capture d'écran 2024-11-14 172214.png…]()
+
 ## Test avec un paquet UDP
-![Uploading Capture d'écran 2024-11-14 172414.png…]()
-![Uploading Capture d'écran 2024-11-14 172428.png…]()
-![Uploading Capture d'écran 2024-11-14 172449.png…]()
+
 ## Test de la réception de messages directement sur le serveur API Flask en ligne
-![Uploading Capture d'écran 2024-11-14 172830.png…]()
+
 
