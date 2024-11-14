@@ -14,4 +14,18 @@ Chaque paquet capturé est transformé en un objet contenant des informations su
 Ces informations sont ensuite envoyées à l'API Flask sous forme de message encodé en base64 pour être traitées.
 Si le paquet est un ICMP, TCP ou UDP et qu'il n'est pas destiné au serveur API, il est envoyé à l'API pour traitement.
 # Fonctionnement détaillé :
+## Test avec un paquet ICMP
+![Capture d'écran 2024-11-14 171459](https://github.com/user-attachments/assets/0249eb15-32da-4567-930e-d9504582ff08)
+![Capture d'écran 2024-11-14 171551](https://github.com/user-attachments/assets/945da31d-2e26-4724-9d8e-5176c3f3622a)
+![Capture d'écran 2024-11-14 171615](https://github.com/user-attachments/assets/f8bb6ed9-db13-4e42-ae08-3cecf70a5d39)
+## Test avec un paquet TCP
+![Uploading Capture d'écran 2024-11-14 172149.png…]()
+![Uploading Capture d'écran 2024-11-14 172149.png…]()
+![Uploading Capture d'écran 2024-11-14 172245.png…]()
+## Test avec un paquet UDP
+![Uploading Capture d'écran 2024-11-14 172414.png…]()
+![Uploading Capture d'écran 2024-11-14 172428.png…]()
+![Uploading Capture d'écran 2024-11-14 172449.png…]()
+## tester la réception de messages directement sur votre serveur API Flask en ligne
+![Uploading Capture d'écran 2024-11-14 172830.png…]()
 
