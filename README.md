@@ -26,6 +26,6 @@ Si le paquet est un ICMP, TCP ou UDP et qu'il n'est pas destiné au serveur API,
 ![Uploading Capture d'écran 2024-11-14 172414.png…]()
 ![Uploading Capture d'écran 2024-11-14 172428.png…]()
 ![Uploading Capture d'écran 2024-11-14 172449.png…]()
-## tester la réception de messages directement sur votre serveur API Flask en ligne
+## Test de la réception de messages directement sur le serveur API Flask en ligne
 ![Uploading Capture d'écran 2024-11-14 172830.png…]()
 
