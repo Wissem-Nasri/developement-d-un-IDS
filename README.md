@@ -1,6 +1,7 @@
 # Description du projet
 Ce projet consiste en un système qui capture des paquets réseau à partir d'une interface réseau locale, puis les envoie à un serveur API Flask pour un traitement supplémentaire.
-
+# Architecture proposé:
+![Untitled Diagram (14)](https://github.com/user-attachments/assets/a0a83094-6011-4fc6-9ad0-0bc8f1813ad9)
 # Structure du projet
 ## test2.py:
 Ce fichier contient une API RESTful développée avec Flask.
